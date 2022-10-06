@@ -14,6 +14,8 @@ On Github I was able to create a new repository where I was able to push all my 
 
 For this assignment we had to deploy our application to heroku.  By D\doing a "git push heroku main" I was able to get it deployed.
 URL: https://fierce-stream-45067.herokuapp.com/
+![Screenshot (10)](https://user-images.githubusercontent.com/107073756/194203757-c2cdb3af-dba1-47c6-a5ae-4acd68682dc1.png)
+
 
 
 
